@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0816e7a-d556-4891-ab9c-b937ce6e821e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZcr4SnZ5BBXq1SAIX4yxYd6jk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestChannel.test6">
+    <configuration name="TestChannel.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nio01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChannel.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nio01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChannel.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nio01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChannel.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nio01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChannel.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nio01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestChannel.test6" />
+        <item itemvalue="JUnit.TestChannel.test5" />
+        <item itemvalue="JUnit.TestChannel.test3" />
+        <item itemvalue="JUnit.TestChannel.test2" />
+        <item itemvalue="JUnit.TestChannel.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0816e7a-d556-4891-ab9c-b937ce6e821e" name="Default Changelist" comment="" />
+      <created>1585050251762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585050251762</updated>
+      <workItem from="1585050254659" duration="4336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="419" key="GridCell.Tab.0.bottom" timestamp="1585118842374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="419" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585118842374" />
+    <state width="1398" height="482" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585098461821" />
+    <state width="1398" height="419" key="GridCell.Tab.0.center" timestamp="1585118842371">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="419" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585118842371" />
+    <state width="1398" height="482" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585098461820" />
+    <state width="1398" height="419" key="GridCell.Tab.0.left" timestamp="1585118842370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="419" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585118842370" />
+    <state width="1398" height="482" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585098461820" />
+    <state width="1398" height="419" key="GridCell.Tab.0.right" timestamp="1585118842372">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="419" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585118842372" />
+    <state width="1398" height="482" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585098461821" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585050256180">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585050256180" />
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585051613744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1585051613744" />
+    <state x="97" y="72" key="new project wizard" timestamp="1585118697006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1585118697006" />
+  </component>
+</project>
